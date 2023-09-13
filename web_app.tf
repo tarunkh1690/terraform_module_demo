@@ -56,4 +56,5 @@ module "web_application2" {
   hosts = ["Web02"]
 
 
+
 }
